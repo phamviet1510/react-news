@@ -37,7 +37,7 @@ APP_URL=http://localhost:8000
 Set the APP_TITLE in `resources/assets/js/values/index.js`
 
 ```angular2html
-APP_TITLE='Your Blog Name'
+APP_TITLE='Title Your News'
 ```
 
 ## Run PHP Dev Server
@@ -56,7 +56,7 @@ npm run dev
 **OR**
 or if you would like to compile assets on runtime then copy paste following command in terminal 
 
-`npm run watch` or `npm run watch-poll`
+`npm run watch`
 
 
 
